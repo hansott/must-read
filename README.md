@@ -12,7 +12,6 @@
 - https://hiringengineersbook.com/post/trouble-hiring/
 - http://slap.pm/
 - https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
-- https://verraes.net/2019/08/eventsourcing-state-from-events-vs-events-as-state/
 - https://www.smashingmagazine.com/2015/10/building-web-applications-with-make/
 - https://verraes.net/2016/04/code-reviews-and-blame-culture/
 - https://verraes.net/2014/06/named-constructors-in-php/
