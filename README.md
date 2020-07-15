@@ -15,4 +15,3 @@
 - https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
 - https://verraes.net/2016/04/code-reviews-and-blame-culture/
 - https://verraes.net/2014/06/named-constructors-in-php/
-- https://www.olioapps.com/blog/the-lost-art-of-the-makefile/
